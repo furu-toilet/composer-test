@@ -1,0 +1,22 @@
+{
+  "name": "MBC-Hasegawa/tkc-project",
+  "license": "proprietary",
+  "require": {
+        "ext-mbstring": "*",
+        "monolog/monolog": "1.23.0"
+  },
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]  
+}
